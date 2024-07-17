@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usherovin.github.io/sitemap
+Sitemap: https://usherovin.github.io/app/sitemap
+Sitemap: https://usherovin.github.io/assets/sitemap
+Sitemap: https://usherovin.github.io/css/sitemap
+Sitemap: https://usherovin.github.io/includes/sitemap
+Sitemap: https://usherovin.github.io/item/sitemap
+Sitemap: https://usherovin.github.io/src/sitemap
